@@ -1,0 +1,11 @@
+{
+  "name": "path_module",
+  "version": "1.0.0",
+  "description": "Introduction to the path module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Promise Anuoluwa Falaye",
+  "license": "ISC"
+}
