@@ -37,19 +37,99 @@ Now you're ready to explore and run the projects!
 
 ## Projects
 
-### 1. Project Name 1
+### 1. External Package
 
-Description of the project. Provide a brief overview of what the project does.
-
-- **Features:**
-
-  - Feature 1
-  - Feature 2
+Explore how to import external packages using the ES6 import statement and require statement
 
 - **Usage:**
-  ```bash
-  npm start
-  ```
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd external_package
+   ```
+
+2. Run the file you wish to; app.js or app-single.js
+
+   ```bash
+   npm app.js
+   ```
+
+### 2. Local Modules
+
+Explore how to create and import local modules(modules you created yourself)
+
+- **Usage:**
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd local_modules
+   ```
+
+2. Run the file you wish to; app.js or my-math-lib.js
+
+   ```bash
+   npm app.js
+   ```
+
+### 3. OS
+
+Explore some functions in the inbuilt os module
+
+- **Usage:**
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd os
+   ```
+
+2. Run the app.js file
+
+   ```bash
+   npm app.js
+   ```
+
+## 4. Path
+
+Explore some functions in the inbuilt path module
+
+- **Usage:**
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd path
+   ```
+
+2. Run the app.js file
+
+   ```bash
+   npm app.js
+   ```
+
+## 5. Process
+
+Explore some functions in the inbuilt process module
+
+- **Usage:**
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd process
+   ```
+
+2. Run the file you wish to; app.js or display.js
+
+   ```bash
+   npm app.js
+   ```
+
+**Note** When running the display.js file add arguments to the terminal like:
+
+    npm display.js Jane 18
 
 ## Contributing
 
