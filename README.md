@@ -138,7 +138,3 @@ Explore some functions in the inbuilt process module
 If you find issues or have suggestions, feel free to create an issue for discussion. However, for learning purposes, it's recommended to make changes in your local repository or cloned version.
 
 Thank you for your understanding!
-
-```
-
-```
