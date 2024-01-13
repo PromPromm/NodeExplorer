@@ -35,6 +35,7 @@ function addBook(req, res){
                 res.end('An error occured')
             }
             const parsedBooks = JSON.parse(books)
+            parsedData.id = parsedBooks.length + 1
             const allBooks = [...parsedBooks, parsedData]
             
             fs.writeFile(bookDbPath, JSON.stringify(allBooks), (err) => {
