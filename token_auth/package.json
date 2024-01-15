@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "token_auth",
+  "version": "1.0.0",
+  "description": "Token Authentication Introduction",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Promise Anuoluwa Falaye",
+  "license": "ISC"
+}
